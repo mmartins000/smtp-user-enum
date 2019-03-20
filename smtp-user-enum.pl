@@ -84,7 +84,7 @@ Examples:
 
 USAGE
 
-getopts('m:u:U:s:S:r:dt:vhM:f:D:p:', \%opts);
+getopts('m:u:U:s:S:r:dt:vhM:f:D:p:T:', \%opts);
 
 # Print help message if required
 if ($opts{'h'}) {
